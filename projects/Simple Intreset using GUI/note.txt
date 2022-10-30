@@ -1,0 +1,4 @@
+This is a simple interest calculator tool using GUI.
+Please run below command to install the Tkinter package before running the app..
+
+-> pip3 install tk
